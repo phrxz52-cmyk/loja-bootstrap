@@ -1,0 +1,66 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+.carousel{
+  
+width: 100%
+    
+}
+
+ .carousel img{
+padding: 75px;
+margin: 50px;
+width: 50px;
+height: 
+font-weight 10px;
+object-position: 20px;
+
+
+} 
+
+
+
+
+#cards{
+   
+border: 20px;
+
+}
+
+
+.card{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    background-color: #716e6e;
+ 
+}
+
+.col img{
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+    
+}
+
+body{
+background-color:rgb(109, 6, 6)
+
+}
+
+
+
+.navbar {
+  background-color: #550505 !important;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: white !important;
+}
